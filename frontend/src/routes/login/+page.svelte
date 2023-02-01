@@ -20,8 +20,7 @@
         <button type="submit" id="login" value="Login">Login</button>
     </form>
     <div id="create-account-wrap">
-        <p><a href="/register">Create an account</a>
-        <p>
+        <a href="/register">Create an account</a>
     </div>
 </div>
 </body>
