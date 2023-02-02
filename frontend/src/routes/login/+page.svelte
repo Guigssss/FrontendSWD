@@ -8,9 +8,9 @@
     <title>Login</title>
 </head>
 <body>
-<div id="login-form-wrap">
+<div id="form-wrap">
     <h2>Login</h2>
-    <form id="login-form" use:enhance method="POST">
+    <form id="form" use:enhance method="POST">
         <fieldset>
             <input type="text" id="username" name="username" placeholder="Username" required><i class="validation"><span></span><span></span></i>
         </fieldset>
