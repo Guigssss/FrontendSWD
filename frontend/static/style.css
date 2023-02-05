@@ -52,7 +52,11 @@ a:active:hover {
 #title{
     font-size: 14pt;
 }
-
+#buttons-wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 input, fieldset {
     display: block;
     box-sizing: border-box;
@@ -163,4 +167,7 @@ button{
 
 nav{
     background-color: WHITE;
+}
+.location-text{
+    font-size: 10pt;
 }

@@ -1,7 +1,6 @@
 <script>
     import { enhance } from '$app/forms';
     /** @type {import('./$types').ActionData} */
-    export let form;
 </script>
 <head>
     <meta charset="UTF-8">
